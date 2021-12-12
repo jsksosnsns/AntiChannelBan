@@ -8,7 +8,7 @@ delete and ban message sent by channels
 </h2>
 
 <p align="center">
-<a href="https://railway.app/new/template?template=https://github.com/BrayDanXD/AntiChannelBan&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2Cparse_mode"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
+<a href="https://railway.app/new/template?template=https://github.com/VIVEKRAJROY/AntiChannelBan&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2Cparse_mode"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
 
 ## Heroku 
 
